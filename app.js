@@ -16,37 +16,37 @@ closeShopping.addEventListener('click', ()=>{
 let products = [
     {
         id: 1,
-        name: 'PRODUCT NAME 1',
+        name: 'Strawberry Cheesecake ',
         image: '1.png',
         price: '£20'
     },
     {
         id: 2,
-        name: 'PRODUCT NAME 2',
+        name: 'Matcha Cake ',
         image: '2.png',
         price: '£20'
     },
     {
         id: 3,
-        name: 'PRODUCT NAME 3',
+        name: 'Cherry Blossoms Cake ',
         image: '3.png',
         price: '£20'
     },
     {
         id: 4,
-        name: 'PRODUCT NAME 4',
+        name: 'Chocolate Chestnut Cake ',
         image: '4.png',
         price: '£22'
     },
     {
         id: 5,
-        name: 'PRODUCT NAME 5',
+        name: 'Basque Cake ',
         image: '5.png',
         price: '£5'
     },
     {
         id: 6,
-        name: 'PRODUCT NAME 6',
+        name: 'Classic Chocolate Cake ',
         image: '6.PNG',
         price: '£5'
     }
