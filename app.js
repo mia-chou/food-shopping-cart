@@ -17,40 +17,48 @@ let products = [
     {
         id: 1,
         name: 'PRODUCT NAME 1',
-        image: '1.PNG',
-        price: 120000
+        image: '1.png',
+        price: '£20'
     },
     {
         id: 2,
         name: 'PRODUCT NAME 2',
-        image: '2.PNG',
-        price: 120000
+        image: '2.png',
+        price: '£20'
     },
     {
         id: 3,
         name: 'PRODUCT NAME 3',
-        image: '3.PNG',
-        price: 220000
+        image: '3.png',
+        price: '£20'
     },
     {
         id: 4,
         name: 'PRODUCT NAME 4',
-        image: '4.PNG',
-        price: 123000
+        image: '4.png',
+        price: '£22'
     },
     {
         id: 5,
         name: 'PRODUCT NAME 5',
-        image: '5.PNG',
-        price: 320000
+        image: '5.png',
+        price: '£5'
     },
     {
         id: 6,
         name: 'PRODUCT NAME 6',
         image: '6.PNG',
-        price: 120000
+        price: '£5'
     }
 ];
+
+
+
+
+
+
+
+
 let listCards  = [];
 function initApp(){
     products.forEach((value, key) =>{
